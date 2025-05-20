@@ -34,6 +34,7 @@
 
 
 
+
 **Summary of Results**
 
 Model: Random Forest Regressor
@@ -65,11 +66,11 @@ Material_Brass, Material_Titanium
 
 2.Material Significantly Affects Cost
 
-     Titanium and Brass are consistently more expensive, seen clearly in the cost vs material boxplot.
+   Titanium and Brass are consistently more expensive, seen clearly in the cost vs material boxplot.
      Lighter or easier-to-machine materials like Plastic tend to have lower costs.
 
 3.Surface-Area-to-Volume Ratio Matters
 
-      Parts with high SA/V ratios are likely more intricate and require more tool paths or changes, affecting cost and 
+   Parts with high SA/V ratios are likely more intricate and require more tool paths or changes, affecting cost and 
       time — this insight can help in further refining future models.
    
